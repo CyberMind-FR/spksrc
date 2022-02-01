@@ -51,4 +51,4 @@ jobs:
         #   tags: |
         #     synocommunity/spksrc:latest
         #     ghcr.io/synocommunity/spksrc:latest
-          tags: ghcr.io/CyberMind-FR/spksrc:latest
+          tags: ghcr.io/cybermind-fr/spksrc:latest
